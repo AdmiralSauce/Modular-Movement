@@ -1,0 +1,12 @@
+{
+  "name": "com.admiralsauce.modular-movement",
+  "version": "0.1.0",
+  "displayName": "Modular Movement Framework",
+  "description": "Uses Unity's character controller to provide a modular, extensible movement controller framework",
+  "unity" : "6000.3",
+  "author": {
+    "name": "Awsam Almughrabi",
+    "email": "admiral.sauce02@gmail.com"
+  },
+  "license": "Refer to LICENSE.md file"
+}
